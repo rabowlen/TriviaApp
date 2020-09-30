@@ -9,7 +9,7 @@ class Card extends Component {
         if(question) {
             return (
                 <div className="container">
-                    <div className="card">
+                    <div className="card bg-light shadow">
                         <div className="card-body">
                             <Question stem={question.stem} answerList={question["answerList"]}/>
                         </div>

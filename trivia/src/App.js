@@ -28,9 +28,9 @@ class App extends Component {
         }
 
         return (
-            <div className="container">
-                <div className="row justify-content-center">
-                    <h1 className="mt-5 mb-5">Trivia App</h1>
+            <div className="container-fluid">
+                <div className="row justify-content-center bg-secondary mb-5">
+                    <h1 className="mt-5 mb-5 text-white">Trivia App</h1>
                 </div>
                 {questions.length <= 0 && <p>There are no questions currently.</p>}
                 <div className="row">

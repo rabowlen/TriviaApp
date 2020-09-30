@@ -11,9 +11,6 @@ public class AnswerChoice {
         this.isCorrect = isCorrect;
     }
 
-    public AnswerChoice() {
-    }
-
     public String getText() {
         return text;
     }
