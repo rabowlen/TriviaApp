@@ -1,0 +1,8 @@
+certifi==2020.6.20
+chardet==3.0.4
+click==7.1.2
+idna==2.10
+PyYAML==5.3.1
+requests==2.24.0
+-e git+https://github.com/rabowlen/TriviaApp.git@958d0242e48856be71fd6224c5bcc13dbeb8478e#egg=trivia_app&subdirectory=tools\trivia-app\src
+urllib3==1.25.10

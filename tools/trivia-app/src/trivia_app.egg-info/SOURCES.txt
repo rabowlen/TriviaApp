@@ -1,0 +1,8 @@
+main.py
+setup.py
+trivia_app.egg-info/PKG-INFO
+trivia_app.egg-info/SOURCES.txt
+trivia_app.egg-info/dependency_links.txt
+trivia_app.egg-info/entry_points.txt
+trivia_app.egg-info/requires.txt
+trivia_app.egg-info/top_level.txt
